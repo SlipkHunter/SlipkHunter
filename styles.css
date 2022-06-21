@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(226, 215, 215);
+    padding: 50px
+}
+
+#title {
+    color: blue;
+}
+
+.warning {
+    color: yellow;
+}
+
+.links_list {
+    list-style: none;
+    padding: 0;
+}
+
+h4 {
+    font-size: 16px;
+       margin: 40px 0 10px 0;
+      font-weight: bold;
+}
+#content {
+padding: 40px 15px;
+text-align: center
+}
